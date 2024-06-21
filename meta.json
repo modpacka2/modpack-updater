@@ -2,6 +2,16 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+     ...
+    ...
+    {
+        "id": "0.1.0A",
+        "releasedAt": 1718978903107,
+        "promotions": {
+            "downloads": {
+                "curseforge": "not now",
+            }
+        }
+    }
   ]
 }
