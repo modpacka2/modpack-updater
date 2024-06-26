@@ -11,16 +11,6 @@
                 "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/mods-hub/files/5476678"
             }
         }
-    },
-      {
-        "id": "0.0.10B",
-        "releasedAt": 1719420349429,
-    "updateType": "major",
-        "promotions": {
-            "downloads": {
-                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/mods-hub/files/5454107"
-            }
-        }
     }
   ]
 }
