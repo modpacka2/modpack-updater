@@ -1,1 +1,73 @@
-First version to add version checker and quests changelog will be more interesting later.
+Neoforge version from .21 to .37
+
+Update :
+
+FTB library
+
+collective
+
+craft tweaker
+
+embeddium
+
+geckolib
+
+modonomicon
+
+Aquaculture 2
+
+Balm
+
+CraftTweaker
+
+FTB quests
+
+Grimoire of Gaia
+
+JEI
+
+Mekanism and all addons
+
+Modomicon
+
+Theurgy
+
+Waystones
+
+Tom's simple storage
+
+Architectury API
+
+NetherPortalFix
+
+SimplePortalFix
+
+Macaw's lamp
+
+dismount entity
+
+ADD : 
+
+Fancy menu
+
+Update Checker
+
+FTB filter system
+
+Iron Furnace
+
+FramedBlocks
+
+Additionnal Structures
+
+FTB XCompat
+
+
+
+Technical/Quests change
+
+Made a custom menu to add update checker
+
+Chapter 1 main quests : Completed
+
+Remove Modern Industrialization and Mekanism for now
