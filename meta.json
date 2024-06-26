@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "hotfixesFormat": null,
- "versions": [
+  "versions": [
     {
-        "id": "0.1.0",
-        "releasedAt": 1719416872137,
+        "id": "0.0.10B",
+        "releasedAt": 1719420349429,
+    "updateType": "major",
         "promotions": {
             "downloads": {
-                "curseforge": "https://www.curseforge.com/minecraft/modpacks/mods-hub",
+                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/mods-hub/files/5454107"
             }
         }
     }
-]
-{
+  ]
 }
