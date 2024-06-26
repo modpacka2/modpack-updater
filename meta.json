@@ -4,7 +4,7 @@
  "versions": [
     ...
     {
-        "id": "0.1.0A",
+        "id": "0.1.0",
         "releasedAt": 1719416872137,
         "promotions": {
             "downloads": {
