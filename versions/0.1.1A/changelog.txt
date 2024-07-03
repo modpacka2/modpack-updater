@@ -1,0 +1,95 @@
+Warning : project : vibrant journeys and grimoire of gaia as been removed, so backup before launching
+
+Change neoforge version to .42
+
+
+UPDATE :
+
+Theurgy
+
+Modonomicon
+
+aquaculture 2
+
+balm
+
+clean swing through grass
+
+collective
+
+Crafttweaker
+
+FTB library
+
+FTB quests
+
+Fuel goes here
+
+Glitch core
+
+KubeJS
+
+ModernIndustrialization
+
+Utilitarian
+
+Iron furnace
+
+Tough As Nails
+
+Architectury API
+
+ambiant sound 6
+
+chat heads
+
+EMI
+
+FTB Xcompat
+
+Jade
+
+JEI
+
+KubeJS
+
+Mekanism + addons
+
+Modern Industrialization
+
+Rhino
+
+Waystones
+
+
+ADD :
+
+polymorph
+
+KubeJs + addons
+
+EMI
+
+Adorned(curio)
+
+Macaw's bridge
+
+JEMM
+
+xycraft (many mods)
+
+yeetus experimental settings
+
+
+Quests :
+
+change the beginning to remove project : vibrant journeys
+
+add 2 quests in chapter 2
+
+
+FIX :
+
+fix acacia log doesn't have craft
+
+now craft use item furability
