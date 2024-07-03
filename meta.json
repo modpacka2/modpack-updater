@@ -3,6 +3,16 @@
   "hotfixesFormat": null,
   "versions": [
     {
+        "id": "0.1.1A",
+        "releasedAt": 1719970553891,
+    "updateType": "major",
+        "promotions": {
+            "downloads": {
+                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/mods-hub/files/5476678"
+            }
+        }
+    },
+    {
         "id": "0.1.0A",
         "releasedAt": 1719422459187,
     "updateType": "major",
