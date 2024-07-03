@@ -1,6 +1,6 @@
 Warning : project : vibrant journeys and grimoire of gaia as been removed, so backup before launching
 
-Change neoforge version to .42
+Change neoforge version to .51
 
 
 UPDATE :
